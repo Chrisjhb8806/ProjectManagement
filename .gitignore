@@ -1,0 +1,37 @@
+build/ 
+dist/ 
+.env 
+.DS_Store 
+.idea/ 
+.vscode/ 
+*.iml 
+.anaconda/ 
+.bash_history 
+.conda/ 
+.condarc 
+.continuum/ 
+.docker/ 
+.ipynb_checkpoints/ 
+.ipython/ 
+.jupyter/ 
+.lesshst 
+.matplotlib/ 
+.redhat/ 
+.ssh/ 
+.wdm/ 
+AppData/ 
+Contacts/ 
+Creative\ Cloud\ Files/ 
+Downloads/ 
+Favorites/ 
+Games/ 
+IntelGraphicsProfiles/ 
+Links/ 
+Music/ 
+NTUSER.DAT 
+NTUSER.DAT{*} 
+OneDrive/ 
+PycharmProjects/ 
+Saved\ Games/ 
+Searches/ 
+Videos/ 
